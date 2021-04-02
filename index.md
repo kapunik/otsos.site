@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## otsos.site
 
 You can use the [editor on GitHub](https://github.com/kapunik/otsos.site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
