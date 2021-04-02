@@ -1,1 +1,1 @@
-![Иллюстрация к проекту](https://otsos.site/site.png)
+![Иллюстрация к проекту](otsos.site/site.png)
